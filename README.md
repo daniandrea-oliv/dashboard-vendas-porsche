@@ -2,8 +2,7 @@
 
 Dashboard interativa em HTML (arquivo único) feita a partir de uma planilha de 100 vendas Porsche, como parte do desafio da DIO *Criando Agentes de Tratamento de Dados*.
 
-**Dashboard publicada:** https://SEU-USUARIO.github.io/dashboard-vendas-porsche/
-<!-- troque SEU-USUARIO pelo seu usuário do GitHub depois de ligar o GitHub Pages -->
+**Dashboard publicada:** https://daniandrea-oliv.github.io/dashboard-vendas-porsche/
 
 ![Visão geral da dashboard](docs/print_geral.png)
 
